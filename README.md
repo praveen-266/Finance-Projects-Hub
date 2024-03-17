@@ -1,1 +1,1 @@
-# invest-compass-assignment
+# Investment-Compass-Assignment
